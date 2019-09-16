@@ -1,0 +1,6 @@
+framework module DeviceEngine {
+  umbrella header "DeviceEngine.h"
+
+  export *
+  module * { export * }
+}
