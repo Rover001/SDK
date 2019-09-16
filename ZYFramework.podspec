@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ZYFramework"
-  spec.version      = "0.0.2"
+  spec.version      = "0.1.0"
   spec.summary      = "测试 ZYFramework."
   spec.homepage     = "https://github.com/Rover001/SDK"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
@@ -12,6 +12,6 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = "9.0"
   spec.source       = { :git => "https://github.com/Rover001/SDK.git", :tag => "#{spec.version}" }
 #spec.source_files  = "src"
-  spec.ios.vendored_frameworks  = "src/*.framework"
+  spec.ios.vendored_frameworks  = "src/DeviceEngine.framework"
   spec.requires_arc = true
 end
