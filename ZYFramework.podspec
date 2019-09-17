@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "9.0"
   spec.ios.deployment_target = "9.0"
   spec.source       = { :git => "https://github.com/Rover001/SDK.git", :tag => "#{spec.version}" }
-  spec.source_files  = "src"
+  #spec.source_files  = "src"
   spec.ios.vendored_frameworks  = "src/*.framework"
   spec.requires_arc = true
 end
