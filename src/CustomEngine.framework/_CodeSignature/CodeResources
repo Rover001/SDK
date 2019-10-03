@@ -8,6 +8,10 @@
 		<data>
 		XL3eLrv04V88UdFyhVO5HYRHmuk=
 		</data>
+		<key>Headers/DeviceEngine_OC.h</key>
+		<data>
+		+df9TCoE/jL3i3apG4LeShSmnmA=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		D5heo3yJY+p/vVjylWBKrpz+U/E=
@@ -28,6 +32,17 @@
 			<key>hash2</key>
 			<data>
 			41QbyZKnHxWaqjLP4YcCsMZ7FVJK7Z9XpAznWkKWHx8=
+			</data>
+		</dict>
+		<key>Headers/DeviceEngine_OC.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+df9TCoE/jL3i3apG4LeShSmnmA=
+			</data>
+			<key>hash2</key>
+			<data>
+			UVgQ0bSuFRol/4ujXi71Y70D9eyUAnD0k3i6Ia77I7g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
