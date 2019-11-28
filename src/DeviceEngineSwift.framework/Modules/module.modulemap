@@ -1,0 +1,11 @@
+framework module DeviceEngineSwift {
+  umbrella header "DeviceEngineSwift.h"
+
+  export *
+  module * { export * }
+}
+
+module DeviceEngineSwift.Swift {
+    header "DeviceEngineSwift-Swift.h"
+    requires objc
+}

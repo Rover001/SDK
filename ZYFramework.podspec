@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ZYFramework"
-  spec.version      = "0.1.3"
+  spec.version      = "0.1.4"
   spec.summary      = "测试 ZYFramework."
   spec.homepage     = "https://github.com/Rover001/SDK"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
