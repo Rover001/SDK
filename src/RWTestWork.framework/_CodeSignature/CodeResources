@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/RWTestWork-Swift.h</key>
 		<data>
-		vMxXuWQ4v8o+in1hiGIKE/OVKjk=
+		GvIpO2e0dh3zzn/+EHxUxQCbrK0=
 		</data>
 		<key>Headers/RWTestWork.h</key>
 		<data>
@@ -14,23 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+kqPQP7Hlv4fCl+agHjzfe5vORY=
+		o1oJ8qNCSvzE6nmtnDU3hFBsn9c=
 		</data>
-		<key>Modules/RWTestWork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/RWTestWork.swiftmodule/arm.swiftdoc</key>
 		<data>
-		mMXmXCODSAhCgKdcy1VwMBMyT8Y=
+		dqqJcO/c4VM0L/tWP/xVsB86UFw=
 		</data>
-		<key>Modules/RWTestWork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/RWTestWork.swiftmodule/arm.swiftmodule</key>
 		<data>
-		U13MZq2IeVBOXSfiIJLImXZ2gYI=
+		nZ9maPxIQ5heBEPcOCCZSNuNkqk=
 		</data>
-		<key>Modules/RWTestWork.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/RWTestWork.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		mMXmXCODSAhCgKdcy1VwMBMyT8Y=
+		XGkJ9YWwHnQ8rCF8qj2x9JG3AgA=
 		</data>
-		<key>Modules/RWTestWork.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/RWTestWork.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		U13MZq2IeVBOXSfiIJLImXZ2gYI=
+		Dv0kgJeNA6bDFWAaOPCvv0Q9Jas=
+		</data>
+		<key>Modules/RWTestWork.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		XGkJ9YWwHnQ8rCF8qj2x9JG3AgA=
+		</data>
+		<key>Modules/RWTestWork.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		Dv0kgJeNA6bDFWAaOPCvv0Q9Jas=
+		</data>
+		<key>Modules/RWTestWork.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<data>
+		dqqJcO/c4VM0L/tWP/xVsB86UFw=
+		</data>
+		<key>Modules/RWTestWork.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<data>
+		nZ9maPxIQ5heBEPcOCCZSNuNkqk=
+		</data>
+		<key>Modules/RWTestWork.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		dqqJcO/c4VM0L/tWP/xVsB86UFw=
+		</data>
+		<key>Modules/RWTestWork.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		nZ9maPxIQ5heBEPcOCCZSNuNkqk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +67,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vMxXuWQ4v8o+in1hiGIKE/OVKjk=
+			GvIpO2e0dh3zzn/+EHxUxQCbrK0=
 			</data>
 			<key>hash2</key>
 			<data>
-			n2ibTau6Z652yF1JOKPYl8BToKrHKJ1ZjgWB09sj0oI=
+			ZHBdLduX96pxgIUnuvlRSksZYMSFs/pzt6LmQW8k1Q0=
 			</data>
 		</dict>
 		<key>Headers/RWTestWork.h</key>
@@ -61,48 +85,114 @@
 			efYOFfvz0awxgdpfDo0TEVmPH4sG+nZNXzXMilibRzY=
 			</data>
 		</dict>
-		<key>Modules/RWTestWork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/RWTestWork.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mMXmXCODSAhCgKdcy1VwMBMyT8Y=
+			dqqJcO/c4VM0L/tWP/xVsB86UFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PBtynqgoPgsAgrMm56MWWgGqOQcsQynpRmP87L/z+Y0=
+			BlGMvCyR4FCi1oFmdNMYgI9c79wAEUBZNlFr6scrIaM=
 			</data>
 		</dict>
-		<key>Modules/RWTestWork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/RWTestWork.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			U13MZq2IeVBOXSfiIJLImXZ2gYI=
+			nZ9maPxIQ5heBEPcOCCZSNuNkqk=
 			</data>
 			<key>hash2</key>
 			<data>
-			io5C2ZaFaqNNtHb00Fxc/xQsKrRd2pehPy+DiCuDtTI=
+			kJKV+gxTCQYbC0Mgmvy7wBJLx1AzsXZ+UcsddN+5pNI=
 			</data>
 		</dict>
-		<key>Modules/RWTestWork.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/RWTestWork.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mMXmXCODSAhCgKdcy1VwMBMyT8Y=
+			XGkJ9YWwHnQ8rCF8qj2x9JG3AgA=
 			</data>
 			<key>hash2</key>
 			<data>
-			PBtynqgoPgsAgrMm56MWWgGqOQcsQynpRmP87L/z+Y0=
+			cggUG8ffERF3DOZ/EPwqfCtOqmTly0mXBNlCfywydEU=
 			</data>
 		</dict>
-		<key>Modules/RWTestWork.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/RWTestWork.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			U13MZq2IeVBOXSfiIJLImXZ2gYI=
+			Dv0kgJeNA6bDFWAaOPCvv0Q9Jas=
 			</data>
 			<key>hash2</key>
 			<data>
-			io5C2ZaFaqNNtHb00Fxc/xQsKrRd2pehPy+DiCuDtTI=
+			qVn2mt00muv5787YaKWJtcAlbOdbmtQzl1Q4SMQUGBU=
+			</data>
+		</dict>
+		<key>Modules/RWTestWork.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XGkJ9YWwHnQ8rCF8qj2x9JG3AgA=
+			</data>
+			<key>hash2</key>
+			<data>
+			cggUG8ffERF3DOZ/EPwqfCtOqmTly0mXBNlCfywydEU=
+			</data>
+		</dict>
+		<key>Modules/RWTestWork.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Dv0kgJeNA6bDFWAaOPCvv0Q9Jas=
+			</data>
+			<key>hash2</key>
+			<data>
+			qVn2mt00muv5787YaKWJtcAlbOdbmtQzl1Q4SMQUGBU=
+			</data>
+		</dict>
+		<key>Modules/RWTestWork.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dqqJcO/c4VM0L/tWP/xVsB86UFw=
+			</data>
+			<key>hash2</key>
+			<data>
+			BlGMvCyR4FCi1oFmdNMYgI9c79wAEUBZNlFr6scrIaM=
+			</data>
+		</dict>
+		<key>Modules/RWTestWork.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nZ9maPxIQ5heBEPcOCCZSNuNkqk=
+			</data>
+			<key>hash2</key>
+			<data>
+			kJKV+gxTCQYbC0Mgmvy7wBJLx1AzsXZ+UcsddN+5pNI=
+			</data>
+		</dict>
+		<key>Modules/RWTestWork.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dqqJcO/c4VM0L/tWP/xVsB86UFw=
+			</data>
+			<key>hash2</key>
+			<data>
+			BlGMvCyR4FCi1oFmdNMYgI9c79wAEUBZNlFr6scrIaM=
+			</data>
+		</dict>
+		<key>Modules/RWTestWork.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nZ9maPxIQ5heBEPcOCCZSNuNkqk=
+			</data>
+			<key>hash2</key>
+			<data>
+			kJKV+gxTCQYbC0Mgmvy7wBJLx1AzsXZ+UcsddN+5pNI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
