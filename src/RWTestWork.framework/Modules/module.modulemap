@@ -1,0 +1,11 @@
+framework module RWTestWork {
+  umbrella header "RWTestWork.h"
+
+  export *
+  module * { export * }
+}
+
+module RWTestWork.Swift {
+    header "RWTestWork-Swift.h"
+    requires objc
+}
